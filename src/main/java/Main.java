@@ -1,12 +1,9 @@
 import model.BusTicket;
 import utilities.Reader;
-
-import jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-
 import java.util.ArrayList;
 import java.util.Scanner;
-
 import static model.ticketValidator.*;
 
 public class Main {
