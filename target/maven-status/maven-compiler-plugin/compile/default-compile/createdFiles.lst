@@ -1,0 +1,4 @@
+model/ticketValidator.class
+Main.class
+model/BusTicket.class
+utilities/Reader.class
